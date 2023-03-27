@@ -1,0 +1,23 @@
+.header {
+  height: 80;
+  /* width: 1440px; */
+  background-color: #1c2b35;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+nav.header a {
+  text-decoration: none;
+  color: #ffffff;
+  margin-left: 20px;
+  font-size: 12px;
+}
+.imgTag{
+    width: 130px;
+}
+nav.header a:hover{
+  color: orange;
+}
